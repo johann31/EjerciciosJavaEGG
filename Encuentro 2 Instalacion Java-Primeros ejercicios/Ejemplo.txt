@@ -1,0 +1,32 @@
+java
+Copy code
+public class Main {
+    public static void main(String[] args) {
+        int age = 25;
+        double salary = 55000.50;
+        boolean isEmployed = true;
+        char gender = 'M';
+        String name = "Juan";
+        long phoneNumber = 1234567890L;
+        
+        System.out.println("Mi nombre es " + name + " y tengo " + age + " años.");
+        System.out.println("Mi salario es " + salary + " y mi número de teléfono es " + phoneNumber + ".");
+        System.out.println("Soy " + (isEmployed ? "empleado" : "desempleado") + " y mi género es " + gender + ".");
+    }
+}
+En este ejemplo, hemos definido las siguientes variables:
+
+edad de tipo entero (int)
+
+anio de tipo doble (double)
+
+vof de tipo booleano (boolean)
+
+letra de tipo carácter (char)
+
+nombre de tipo cadena de caracteres (String)
+
+telefono de tipo largo (long)
+
+Luego, en el método main, hemos utilizado estas variables en diferentes operaciones y 
+las hemos impreso en la consola con el método System.out.println().

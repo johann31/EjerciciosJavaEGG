@@ -1,0 +1,7 @@
+run:
+Ingrese el tamaño del vector: 10
+Vector generado: 28 21 42 70 42 76 80 3 36 8 
+Ingrese el número a buscar: 21
+El número 21 se encuentra en la posición 1 del vector.
+El número 21 se encontró 1 vez en el vector.
+BUILD SUCCESSFUL (total time: 15 seconds)
